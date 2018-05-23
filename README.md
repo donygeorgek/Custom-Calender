@@ -3,10 +3,8 @@ iOS Developer Test for Microsoft
 
 Hi,
 
-I am Dony George. I have completed the iOS Challenge for the Outlook Team and would like it to be reviewed. The test was supposed to be delivered by Dec 13th 2017. I have done this with the limited amount of time I got this weekend. I was too busy with my works last week. The code is also available in GitHub and have invited Ogden and Eddie to the repository.
-
-
-As for me I have 6 years of experience in iOS development and have worked on both Obj-C and swift projects. The project was written Swift 3.2 on Xcode 8.3.3. No third party libraries were used.
+I am Dony George. I have completed the iOS Challenge for the Outlook Team and would like it to be reviewed. 
+The project was written Swift 3.2 on Xcode 8.3.3. No third party libraries were used.
 
 Below is what is done in the project
 
